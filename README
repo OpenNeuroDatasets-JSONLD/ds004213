@@ -1,7 +1,8 @@
 # Overview
 
 This dataset is related to the following publication:
-- **Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping**
+
+**Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping**
 
 Preprint:  Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. bioRxiv 2022.02.18.480957; doi: https://doi.org/10.1101/2022.02.18.480957
 
@@ -15,7 +16,7 @@ In subject 1 data were acquired during 2 separate sessions, the second session w
 
 ### Derivatives
 Derivatives are provided to reproduce all figures related to the manuscript:
-Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. bioRxiv 2022.02.18.480957; doi: https://doi.org/10.1101/2022.02.18.480957
+Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping
 
 Code is shared on https://github.com/vistalab/BrainBeat
 
@@ -36,7 +37,7 @@ T1 weighted images were de-identified using code developed by Christopher G. Sch
 
 
 # Citing this dataset
-Please cite: Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. bioRxiv 2022.02.18.480957; doi: https://doi.org/10.1101/2022.02.18.480957
+Please cite: Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping
 
 
 # Contact
