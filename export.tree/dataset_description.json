@@ -1,0 +1,18 @@
+{
+    "Name": "BrainBeats",
+    "BIDSVersion": "1.9.3",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. bioRxiv 2022.02.18.480957; doi: https://doi.org/10.1101/2022.02.18.480957"
+    ],
+    "Authors": [
+        "Hermes D",
+        "Wandell BA"
+    ],
+    "Acknowledgements": "Hua Wu, Adam Kerr",
+    "HowToAcknowledge": "Please cite: Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. bioRxiv 2022.02.18.480957; doi: https://doi.org/10.1101/2022.02.18.480957",
+    "Funding": [
+        " Stanford CNI innovation grant"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004213.v1.0.0"
+}
