@@ -2,9 +2,8 @@
 
 This dataset is related to the following publication:
 
-**Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping**
+**Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping. https://doi.org/10.1002/hbm.26128**
 
-Preprint:  Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. bioRxiv 2022.02.18.480957; doi: https://doi.org/10.1101/2022.02.18.480957
 
 The data consist of five subjects where we acquired Simultaneous MultiSlice (SMS) fMRI measurements to map brain wide cardiac-gated fMRI signal variations. Whole-brain fMRI data were acquired using several gradient echo EPI sequences with whole brain coverage. An SMS sequence was used with 4mm isotropic voxels, a flip angle of 48 degrees, TR = 250ms, TE = 11.6ms, FOV = 224x224 and 40 slices with multiband factor 8. This resulted in a slice acquisition time of 50 ms. A total of 878 volumes were acquired within a total scan duration of 220 sec. 
 
@@ -15,8 +14,7 @@ For sub-3_ses-1, sub-4_ses-1, sub-5_ses-1, and sub-1_ses-2, there is a second ru
 In subject 1 data were acquired during 2 separate sessions, the second session was ~3 years after the first session.
 
 ### Derivatives
-Derivatives are provided to reproduce all figures related to the manuscript:
-Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping
+Derivatives are provided to reproduce all figures related to the manuscript.
 
 Code is shared on https://github.com/vistalab/BrainBeat
 
@@ -37,7 +35,7 @@ T1 weighted images were de-identified using code developed by Christopher G. Sch
 
 
 # Citing this dataset
-Please cite: Hermes D, Wu H, Kerr AB, Wandell BA (in press). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping
+Please cite: Hermes D, Wu H, Kerr AB, Wandell BA (2022). Measuring brain beats: cardiac-aligned fast fMRI signals. Human Brain Mapping. https://doi.org/10.1002/hbm.26128
 
 
 # Contact
